@@ -1,46 +1,61 @@
-# IT Helpdesk Support Analysis Dashboard
+# IT Helpdesk Support Analysis
 
-## Project Overview
+## Business Problem
 
-This project analyzes IT helpdesk ticket data to track performance, efficiency, and customer satisfaction.
-
-## Tools Used
-
-* MySQL (Data Storage)
-* Power BI (Dashboard & Visualization)
-* Excel / CSV (Data Cleaning)
-
-## Key Metrics
-
-* Total Tickets
-* Average Resolution Time
-* SLA Compliance (%)
-* Customer Satisfaction Score (CSAT)
-
-## Dashboard Features
-
-* Ticket trends over time
-* Ticket distribution by priority
-* Resolution time analysis by channel
-* SLA performance tracking
-
-## Dataset
-
-The dataset contains:
-
-* Ticket details
-* Customer info
-* Resolution times
-* Satisfaction ratings
-
-## Dashboard Preview
-
-![Dashboard](Dashboard.png)
+IT support teams need to monitor ticket volume, resolution efficiency, and SLA compliance to improve service quality and customer satisfaction.
 
 
-## Insights
+## Tools & Technologies
 
-* Most tickets come from Social Media & Chat
-* High priority tickets require faster resolution
-* SLA compliance impacts customer satisfaction
+* MySQL (Data Storage & Querying)
+* Power BI (Interactive Dashboard)
+* Excel (Data Cleaning)
 
+## Dataset Overview
+
+The dataset includes:
+
+* Ticket details (Type, Status, Priority)
+* Customer attributes
+* Response and resolution timestamps
+* Customer Satisfaction Ratings
+
+
+## Key Metrics (KPIs)
+
+* **Total Tickets** – Overall workload
+* **Average Resolution Time (Hours)** – Efficiency indicator
+* **SLA Compliance (%)** – Tickets resolved within 24 hours
+* **Customer Satisfaction (CSAT)** – Service quality measure
+
+
+## Dashboard Highlights
+
+* Monthly ticket trend analysis
+* Ticket distribution by priority and status
+* Channel-wise performance comparison
+* SLA compliance tracking
+
+
+## Key Insights
+
+* High-priority tickets significantly impact SLA performance
+* Certain channels (e.g., Social Media) show higher resolution delays
+* Faster response times correlate with higher customer satisfaction
+
+
+## Business Impact
+
+* Helps identify operational bottlenecks
+* Supports data-driven resource allocation
+* Improves customer experience through SLA monitoring
+
+
+## 📷 Dashboard Preview
+
+
+
+
+## 👩‍💻 Author
+
+Your Name
