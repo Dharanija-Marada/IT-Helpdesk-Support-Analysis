@@ -51,11 +51,12 @@ The dataset includes:
 * Improves customer experience through SLA monitoring
 
 
-## 📷 Dashboard Preview
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 
 
 
+## Author
 
-## 👩‍💻 Author
-
-Your Name
+MARADA DHARANIJA
