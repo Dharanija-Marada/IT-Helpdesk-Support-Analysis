@@ -35,7 +35,8 @@ The dataset contains:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
+
 
 ## Insights
 
