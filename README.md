@@ -40,7 +40,7 @@ The dataset includes:
 ## Key Insights
 
 * High-priority tickets significantly impact SLA performance
-* Certain channels (e.g., Social Media) show higher resolution delays
+* Certain channels show higher resolution delays
 * Faster response times correlate with higher customer satisfaction
 
 
